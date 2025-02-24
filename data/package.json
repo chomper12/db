@@ -1,6 +1,0 @@
-{
-  "name": "json-server-backend",
-  "version": "1.0.0",
-  "description": "Backend con JSON Server",
-  "main": "index.js"
-}
